@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601774143145",
+    "project_id": "gradiuation-project-ieee",
+    "storage_bucket": "gradiuation-project-ieee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601774143145:android:4c66e15e33234a8b72dbb8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzv5lhsqXXIU7WR9IP6ylkC8sw4xgBvS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
